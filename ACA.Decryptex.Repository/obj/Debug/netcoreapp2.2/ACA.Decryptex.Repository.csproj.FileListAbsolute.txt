@@ -1,0 +1,14 @@
+C:\TestProject\POC\Decryptex\ACA.Decryptex.Api\ACA.Decryptex.Repository\bin\Debug\netcoreapp2.2\ACA.Decryptex.Repository.deps.json
+C:\TestProject\POC\Decryptex\ACA.Decryptex.Api\ACA.Decryptex.Repository\bin\Debug\netcoreapp2.2\ACA.Decryptex.Repository.dll
+C:\TestProject\POC\Decryptex\ACA.Decryptex.Api\ACA.Decryptex.Repository\bin\Debug\netcoreapp2.2\ACA.Decryptex.Repository.pdb
+C:\TestProject\POC\Decryptex\ACA.Decryptex.Api\ACA.Decryptex.Repository\bin\Debug\netcoreapp2.2\ACA.Decryptex.Cache.dll
+C:\TestProject\POC\Decryptex\ACA.Decryptex.Api\ACA.Decryptex.Repository\bin\Debug\netcoreapp2.2\ACA.Decryptex.Core.dll
+C:\TestProject\POC\Decryptex\ACA.Decryptex.Api\ACA.Decryptex.Repository\bin\Debug\netcoreapp2.2\ACA.Decryptex.Cache.pdb
+C:\TestProject\POC\Decryptex\ACA.Decryptex.Api\ACA.Decryptex.Repository\bin\Debug\netcoreapp2.2\ACA.Decryptex.Core.pdb
+C:\TestProject\POC\Decryptex\ACA.Decryptex.Api\ACA.Decryptex.Repository\obj\Debug\netcoreapp2.2\ACA.Decryptex.Repository.csprojAssemblyReference.cache
+C:\TestProject\POC\Decryptex\ACA.Decryptex.Api\ACA.Decryptex.Repository\obj\Debug\netcoreapp2.2\ACA.Decryptex.Repository.csproj.CoreCompileInputs.cache
+C:\TestProject\POC\Decryptex\ACA.Decryptex.Api\ACA.Decryptex.Repository\obj\Debug\netcoreapp2.2\ACA.Decryptex.Repository.AssemblyInfoInputs.cache
+C:\TestProject\POC\Decryptex\ACA.Decryptex.Api\ACA.Decryptex.Repository\obj\Debug\netcoreapp2.2\ACA.Decryptex.Repository.AssemblyInfo.cs
+C:\TestProject\POC\Decryptex\ACA.Decryptex.Api\ACA.Decryptex.Repository\obj\Debug\netcoreapp2.2\ACA.Decryptex.Repository.csproj.CopyComplete
+C:\TestProject\POC\Decryptex\ACA.Decryptex.Api\ACA.Decryptex.Repository\obj\Debug\netcoreapp2.2\ACA.Decryptex.Repository.dll
+C:\TestProject\POC\Decryptex\ACA.Decryptex.Api\ACA.Decryptex.Repository\obj\Debug\netcoreapp2.2\ACA.Decryptex.Repository.pdb

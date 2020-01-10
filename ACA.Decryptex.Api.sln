@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.960
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ACA.Decryptex.Api", "ACA.Decryptex.Api\ACA.Decryptex.Api.csproj", "{1631FE67-E705-4278-AA61-309C093C425B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ACA.Decryptex.Resolver", "ACA.Decryptex.Resolver\ACA.Decryptex.Resolver.csproj", "{3C3E3E5B-6F99-434A-A420-C32832C49735}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ACA.Decryptex.Repository", "ACA.Decryptex.Repository\ACA.Decryptex.Repository.csproj", "{F2CF8B9B-F422-43C8-A1D2-FFEAA103D090}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ACA.Decryptex.Core", "ACA.Decryptex.Core\ACA.Decryptex.Core.csproj", "{C8DC863D-2407-4262-B835-BA8D170D6F59}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ACA.Decryptex.Cache", "ACA.Decryptex.Cache\ACA.Decryptex.Cache.csproj", "{AF765B71-541E-4FA0-8E63-F5E53001418F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ACA.Decryptex.Business", "ACA.Decryptex.Business\ACA.Decryptex.Business.csproj", "{8D4EDFC9-ACF2-4BFB-A225-CF41EF0F4AC2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ACA.Decryptex.Orchestrator", "ACA.Decryptex.Orchestrator\ACA.Decryptex.Orchestrator.csproj", "{0F649A01-2164-40BF-9B82-A8285399DEC7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1631FE67-E705-4278-AA61-309C093C425B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1631FE67-E705-4278-AA61-309C093C425B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1631FE67-E705-4278-AA61-309C093C425B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1631FE67-E705-4278-AA61-309C093C425B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3C3E3E5B-6F99-434A-A420-C32832C49735}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C3E3E5B-6F99-434A-A420-C32832C49735}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C3E3E5B-6F99-434A-A420-C32832C49735}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C3E3E5B-6F99-434A-A420-C32832C49735}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F2CF8B9B-F422-43C8-A1D2-FFEAA103D090}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2CF8B9B-F422-43C8-A1D2-FFEAA103D090}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2CF8B9B-F422-43C8-A1D2-FFEAA103D090}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2CF8B9B-F422-43C8-A1D2-FFEAA103D090}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C8DC863D-2407-4262-B835-BA8D170D6F59}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8DC863D-2407-4262-B835-BA8D170D6F59}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C8DC863D-2407-4262-B835-BA8D170D6F59}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C8DC863D-2407-4262-B835-BA8D170D6F59}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AF765B71-541E-4FA0-8E63-F5E53001418F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF765B71-541E-4FA0-8E63-F5E53001418F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF765B71-541E-4FA0-8E63-F5E53001418F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF765B71-541E-4FA0-8E63-F5E53001418F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8D4EDFC9-ACF2-4BFB-A225-CF41EF0F4AC2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D4EDFC9-ACF2-4BFB-A225-CF41EF0F4AC2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D4EDFC9-ACF2-4BFB-A225-CF41EF0F4AC2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D4EDFC9-ACF2-4BFB-A225-CF41EF0F4AC2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0F649A01-2164-40BF-9B82-A8285399DEC7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F649A01-2164-40BF-9B82-A8285399DEC7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F649A01-2164-40BF-9B82-A8285399DEC7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F649A01-2164-40BF-9B82-A8285399DEC7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C0553802-0D00-4FDB-993F-3E6E96FD1EAF}
+	EndGlobalSection
+EndGlobal

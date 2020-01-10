@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.2",
+    "signature": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.2": {
+      "ACA.Decryptex.Orchestrator/1.0.0": {
+        "dependencies": {
+          "ACA.Decryptex.Core": "1.0.0"
+        },
+        "runtime": {
+          "ACA.Decryptex.Orchestrator.dll": {}
+        }
+      },
+      "ACA.Decryptex.Core/1.0.0": {
+        "runtime": {
+          "ACA.Decryptex.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ACA.Decryptex.Orchestrator/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ACA.Decryptex.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

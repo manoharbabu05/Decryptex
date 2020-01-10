@@ -1,0 +1,12 @@
+C:\TestProject\POC\Decryptex\ACA.Decryptex.Api\ACA.Decryptex.Business\obj\Debug\netcoreapp2.2\ACA.Decryptex.Business.csprojAssemblyReference.cache
+C:\TestProject\POC\Decryptex\ACA.Decryptex.Api\ACA.Decryptex.Business\obj\Debug\netcoreapp2.2\ACA.Decryptex.Business.csproj.CoreCompileInputs.cache
+C:\TestProject\POC\Decryptex\ACA.Decryptex.Api\ACA.Decryptex.Business\obj\Debug\netcoreapp2.2\ACA.Decryptex.Business.AssemblyInfoInputs.cache
+C:\TestProject\POC\Decryptex\ACA.Decryptex.Api\ACA.Decryptex.Business\obj\Debug\netcoreapp2.2\ACA.Decryptex.Business.AssemblyInfo.cs
+C:\TestProject\POC\Decryptex\ACA.Decryptex.Api\ACA.Decryptex.Business\bin\Debug\netcoreapp2.2\ACA.Decryptex.Business.deps.json
+C:\TestProject\POC\Decryptex\ACA.Decryptex.Api\ACA.Decryptex.Business\bin\Debug\netcoreapp2.2\ACA.Decryptex.Business.dll
+C:\TestProject\POC\Decryptex\ACA.Decryptex.Api\ACA.Decryptex.Business\bin\Debug\netcoreapp2.2\ACA.Decryptex.Business.pdb
+C:\TestProject\POC\Decryptex\ACA.Decryptex.Api\ACA.Decryptex.Business\bin\Debug\netcoreapp2.2\ACA.Decryptex.Core.dll
+C:\TestProject\POC\Decryptex\ACA.Decryptex.Api\ACA.Decryptex.Business\bin\Debug\netcoreapp2.2\ACA.Decryptex.Core.pdb
+C:\TestProject\POC\Decryptex\ACA.Decryptex.Api\ACA.Decryptex.Business\obj\Debug\netcoreapp2.2\ACA.Decryptex.Business.csproj.CopyComplete
+C:\TestProject\POC\Decryptex\ACA.Decryptex.Api\ACA.Decryptex.Business\obj\Debug\netcoreapp2.2\ACA.Decryptex.Business.dll
+C:\TestProject\POC\Decryptex\ACA.Decryptex.Api\ACA.Decryptex.Business\obj\Debug\netcoreapp2.2\ACA.Decryptex.Business.pdb

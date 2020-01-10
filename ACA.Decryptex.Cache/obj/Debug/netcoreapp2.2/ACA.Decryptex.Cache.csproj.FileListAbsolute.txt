@@ -1,0 +1,9 @@
+C:\TestProject\POC\Decryptex\ACA.Decryptex.Api\ACA.Decryptex.Cache\bin\Debug\netcoreapp2.2\ACA.Decryptex.Cache.deps.json
+C:\TestProject\POC\Decryptex\ACA.Decryptex.Api\ACA.Decryptex.Cache\bin\Debug\netcoreapp2.2\ACA.Decryptex.Cache.dll
+C:\TestProject\POC\Decryptex\ACA.Decryptex.Api\ACA.Decryptex.Cache\bin\Debug\netcoreapp2.2\ACA.Decryptex.Cache.pdb
+C:\TestProject\POC\Decryptex\ACA.Decryptex.Api\ACA.Decryptex.Cache\obj\Debug\netcoreapp2.2\ACA.Decryptex.Cache.csproj.CoreCompileInputs.cache
+C:\TestProject\POC\Decryptex\ACA.Decryptex.Api\ACA.Decryptex.Cache\obj\Debug\netcoreapp2.2\ACA.Decryptex.Cache.AssemblyInfoInputs.cache
+C:\TestProject\POC\Decryptex\ACA.Decryptex.Api\ACA.Decryptex.Cache\obj\Debug\netcoreapp2.2\ACA.Decryptex.Cache.AssemblyInfo.cs
+C:\TestProject\POC\Decryptex\ACA.Decryptex.Api\ACA.Decryptex.Cache\obj\Debug\netcoreapp2.2\ACA.Decryptex.Cache.dll
+C:\TestProject\POC\Decryptex\ACA.Decryptex.Api\ACA.Decryptex.Cache\obj\Debug\netcoreapp2.2\ACA.Decryptex.Cache.pdb
+C:\TestProject\POC\Decryptex\ACA.Decryptex.Api\ACA.Decryptex.Cache\obj\Debug\netcoreapp2.2\ACA.Decryptex.Cache.csprojAssemblyReference.cache

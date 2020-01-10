@@ -1,0 +1,12 @@
+C:\TestProject\POC\Decryptex\ACA.Decryptex.Api\ACA.Decryptex.Orchestrator\bin\Debug\netcoreapp2.2\ACA.Decryptex.Orchestrator.deps.json
+C:\TestProject\POC\Decryptex\ACA.Decryptex.Api\ACA.Decryptex.Orchestrator\bin\Debug\netcoreapp2.2\ACA.Decryptex.Orchestrator.dll
+C:\TestProject\POC\Decryptex\ACA.Decryptex.Api\ACA.Decryptex.Orchestrator\bin\Debug\netcoreapp2.2\ACA.Decryptex.Orchestrator.pdb
+C:\TestProject\POC\Decryptex\ACA.Decryptex.Api\ACA.Decryptex.Orchestrator\bin\Debug\netcoreapp2.2\ACA.Decryptex.Core.dll
+C:\TestProject\POC\Decryptex\ACA.Decryptex.Api\ACA.Decryptex.Orchestrator\bin\Debug\netcoreapp2.2\ACA.Decryptex.Core.pdb
+C:\TestProject\POC\Decryptex\ACA.Decryptex.Api\ACA.Decryptex.Orchestrator\obj\Debug\netcoreapp2.2\ACA.Decryptex.Orchestrator.csprojAssemblyReference.cache
+C:\TestProject\POC\Decryptex\ACA.Decryptex.Api\ACA.Decryptex.Orchestrator\obj\Debug\netcoreapp2.2\ACA.Decryptex.Orchestrator.csproj.CoreCompileInputs.cache
+C:\TestProject\POC\Decryptex\ACA.Decryptex.Api\ACA.Decryptex.Orchestrator\obj\Debug\netcoreapp2.2\ACA.Decryptex.Orchestrator.AssemblyInfoInputs.cache
+C:\TestProject\POC\Decryptex\ACA.Decryptex.Api\ACA.Decryptex.Orchestrator\obj\Debug\netcoreapp2.2\ACA.Decryptex.Orchestrator.AssemblyInfo.cs
+C:\TestProject\POC\Decryptex\ACA.Decryptex.Api\ACA.Decryptex.Orchestrator\obj\Debug\netcoreapp2.2\ACA.Decryptex.Orchestrator.csproj.CopyComplete
+C:\TestProject\POC\Decryptex\ACA.Decryptex.Api\ACA.Decryptex.Orchestrator\obj\Debug\netcoreapp2.2\ACA.Decryptex.Orchestrator.dll
+C:\TestProject\POC\Decryptex\ACA.Decryptex.Api\ACA.Decryptex.Orchestrator\obj\Debug\netcoreapp2.2\ACA.Decryptex.Orchestrator.pdb
